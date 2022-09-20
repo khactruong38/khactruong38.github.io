@@ -163,7 +163,7 @@ html {
     float: right;
     height: 100%;
    border-top-right-radius: 0.75rem;
-   background: url('./img/bga.jpg') top center / cover no-repeat;
+   background: url('./bga.jpg') top center / cover no-repeat;
 }
 .content {
     min-height: 1000px;
