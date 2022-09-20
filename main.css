@@ -364,3 +364,38 @@ html {
         opacity: 1;
     }
 }
+.haTinh,
+.haNoi,
+.tranPhu {
+    display: none;
+}
+li:hover .tranPhu {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    top:18% ;
+    left:23% ;
+    box-shadow: 0 0 10px rgba( 0 0 0 0.5) ;
+
+}
+li:hover .haNoi {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    top:42% ;
+    left:23% ;
+    box-shadow: 0 0 10px rgba( 0 0 0 0.5) ;
+
+}
+li:hover .haTinh {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    top:50% ;
+    left:23% ;
+    box-shadow: 0 0 10px rgba( 0 0 0 0.5) ;
+
+}
+.br {
+    border-radius: 8px;
+}
