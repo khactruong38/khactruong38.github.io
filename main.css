@@ -170,7 +170,7 @@ html {
 }
 #background {
     position: relative;
-    background: url('./img/background.jpg') top center/ cover no-repeat;
+    background: url('./background.jpg') top center/ cover no-repeat;
     padding-top: 66.66666%;
     position: fixed;
     top: 0;
