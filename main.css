@@ -285,6 +285,8 @@ html {
     width: 900px;
     background-color: #fff;
     animation: effect ease 0.4s;
+    border-radius: 8px;
+
 
 }
 .content_modal .header_modal {
@@ -295,6 +297,8 @@ html {
     font-size: 30px;
     word-spacing: 6px;
     position: relative;
+    border-radius: 8px 8px 0 0;
+
 }
 .content_modal .body_content_modal {
     display: grid;
