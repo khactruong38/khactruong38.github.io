@@ -1,0 +1,16 @@
+@media (min-width: 33em){
+    #mobile {
+        display: none;
+    }
+}
+
+
+@media(max-width: 33em){
+    .pc {
+        display: none;
+    }
+    .body_content_modal {
+        
+        margin-left: 5%;
+    }
+}
