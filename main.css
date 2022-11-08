@@ -462,3 +462,6 @@ li:hover .haTinh {
 #content .effect:nth-child(4){
     letter-spacing: 6px;
 }
+#mobile .body_content_modal {
+    margin-bottom: 80px;
+}
